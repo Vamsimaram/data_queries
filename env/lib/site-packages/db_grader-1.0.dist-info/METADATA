@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: db-grader
+Version: 1.0
+Summary: Database query graders
+Home-page: https://github.com/sulabh-shr/sqlgrader.git
+Author: Sulabh Shrestha
+Author-email: sshres2@gmu.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: mysql-connector-python
+Requires-Dist: natsort
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Auto-grader for sql queries

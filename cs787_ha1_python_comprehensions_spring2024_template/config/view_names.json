@@ -1,0 +1,25 @@
+{
+  "views": [
+    "boolQuery_a",
+    "boolQuery_b",
+    "boolQuery_c",
+    "boolQuery_d",
+    "boolQuery_e",
+    "boolQuery_f",
+    "boolQuery_g",
+    "boolQuery_h",
+    "boolQuery_i",
+    "boolQuery_k",
+    "boolQuery_l",
+    "dataQuery_a",
+    "dataQuery_b",
+    "dataQuery_c",
+    "dataQuery_d",
+    "dataQuery_e",
+    "dataQuery_f",
+    "dataQuery_g",
+    "dataQuery_h",
+    "dataQuery_i",
+    "dataQuery_j"
+  ]
+}
